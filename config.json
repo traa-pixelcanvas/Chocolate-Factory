@@ -408,6 +408,12 @@
           "y": -30
         },
 		{
+          "name": "Antifa Base",
+          "file": "RedPixel/antifabase.png",
+          "x": -2489,
+          "y": 6146
+        },
+		{
 		 "name": "Hamsics: CCP",
           "file": "RedPixel/ccp.png",
           "x": -2401,
