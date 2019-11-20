@@ -32,7 +32,7 @@
         {
           "name": "Main Base: Northern Annex",
           "file": "PixelTraa/mb_northernAnnex.png",
-          "x": 1289,
+          "x": 1288,
           "y": 639
         },
         {
@@ -93,7 +93,7 @@
           "name": "Main Base: Central",
           "file": "PixelTraa/mb_central.png",
           "x": 1207,
-          "y": 848
+          "y": 846
         },
         {
           "name": "Main Base: UK",
