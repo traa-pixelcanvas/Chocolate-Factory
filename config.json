@@ -496,12 +496,18 @@
           "file": "PixelTraa/centerDiamond.png",
           "x": -109,
           "y": -107
-		  },
+		},
 		{
           "name": "Center: North",
           "file": "PixelTraa/cen_north.png",
           "x": -182,
           "y": -276  
+		},
+		{
+		 "name": "Center: West",
+          "file": "PixelTraa/cen_west.png",
+          "x": -497,
+          "y": -141
         }
       ]
     }
