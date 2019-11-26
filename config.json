@@ -508,6 +508,12 @@
           "file": "PixelTraa/cen_west.png",
           "x": -497,
           "y": -141
+		  },
+		  {
+          "name": "Center: South West",
+          "file": "PixelTraa/cen_sw.png",
+          "x": -372,
+          "y": 86  
         }
       ]
     }
