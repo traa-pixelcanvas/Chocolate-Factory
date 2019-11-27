@@ -245,6 +245,12 @@
           "x": -834,
           "y": -869
         },
+			{
+		  "name": "Pixelgrad: Cartoon Protectorate",
+          "file": "RedPixel/pr_touhou.png",
+          "x": 67,
+          "y": -1122
+        },
         {
           "name": "Red Menance: America",
           "file": "RedPixel/rm_america.png",
