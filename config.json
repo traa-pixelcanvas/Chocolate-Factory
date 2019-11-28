@@ -390,15 +390,9 @@
           "y": -5061
         },
 		{
-          "name": "Iron Corpse: Heather Heyer",
+          "name": "Iron Corpse",
           "file": "RedPixel/ic_heatherheyer.png",
-          "x": -1558,
-          "y": 1235
-        },
-		{
-          "name": "Iron Corpse: Lyud",
-          "file": "RedPixel/lyud.png",
-          "x": -1188,
+          "x": -1801,
           "y": 756
         },
         {
