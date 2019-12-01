@@ -416,14 +416,14 @@
 		{
 		 "name": "Hamsics: CCP",
           "file": "RedPixel/ccp.png",
-          "x": 5618,
-          "y": -73
+          "x": -2401,
+          "y": 1641
         },
 		{
 		 "name": "Hamsics: DDR",
-          "file": "RedPixel/ccp.png",
-          "x": -2401,
-          "y": 1641
+          "file": "RedPixel/ddr.png",
+          "x": 5618,
+          "y": -73
         },
 		{
 		  "name": "Other: Apetown",
