@@ -84,12 +84,6 @@
           "y": -90
         },
         {
-          "name": "Trans Diamond",
-          "file": "PixelTraa/transDiamond.png",
-          "x": -107,
-          "y": -107
-        },
-        {
           "name": "Main Base: Central",
           "file": "PixelTraa/mb_central.png",
           "x": 1207,
