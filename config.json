@@ -514,6 +514,13 @@
           "file": "PixelTraa/cen_sw.png",
           "x": -372,
           "y": 86  
+		  },
+		 {
+          "name": "Center: East",
+          "file": "PixelTraa/cen_east.png",
+          "x": 29,
+          "y": -103
+		  },
 		 {
 		 "name": "Center: South",
           "file": "PixelTraa/cen_south.png",
