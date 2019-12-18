@@ -532,6 +532,12 @@
           "file": "PixelTraa/cen_se.png",
           "x": 232,
           "y": 92
+		    },
+		 {
+		 "name": "Center: Norther East",
+          "file": "PixelTraa/cen_ne.png",
+          "x": 139,
+          "y": -314
         }
       ]
     }
