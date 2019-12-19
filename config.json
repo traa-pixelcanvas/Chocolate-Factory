@@ -144,6 +144,12 @@
           "y": -812
         },
         {
+          "name": "Center: Link",
+          "file": "PixelTraa/cen_link.png",
+          "x": -1098,
+          "y": -810
+        },
+        {
           "name": "Abyss: Vapu Grano",
           "file": "PixelTraa/ab_vapu.png",
           "x": -1465,
