@@ -17,6 +17,12 @@
         }
       ],
       "templates": [
+	    {
+          "name": "Main Base: Central",
+          "file": "PixelTraa/mb_central.png",
+          "x": 1207,
+          "y": 846
+        },
         {
           "name": "Main Base: East End",
           "file": "PixelTraa/mb_eastEnd.png",
@@ -34,6 +40,18 @@
           "file": "PixelTraa/mb_northernAnnex.png",
           "x": 1288,
           "y": 639
+        },
+		 {
+          "name": "Main Base: UK",
+          "file": "PixelTraa/mb_UK.png",
+          "x": 1595,
+          "y": 784
+        },
+        {
+          "name": "Main Base: Formula One",
+          "file": "PixelTraa/mb_f1.png",
+          "x": 1909,
+          "y": 320
         },
         {
           "name": "Outpost: Commune",
@@ -78,76 +96,58 @@
           "y": -22271
         },
         {
-          "name": "Pride Flags",
-          "file": "PixelTraa/prideFlags.png",
-          "x": 1343,
-          "y": -90
-        },
-        {
-          "name": "Main Base: Central",
-          "file": "PixelTraa/mb_central.png",
-          "x": 1207,
-          "y": 846
-        },
-        {
-          "name": "Main Base: UK",
-          "file": "PixelTraa/mb_UK.png",
-          "x": 1595,
-          "y": 784
-        },
-        {
-          "name": "Main Base: Formula One",
-          "file": "PixelTraa/mb_f1.png",
-          "x": 1909,
-          "y": 320
-        },
-        {
-          "name": "Center: Stevonnie",
-          "file": "PixelTraa/cen_stevonnie.png",
+          "name": "Center Base: Stevonnie",
+          "file": "PixelTraa/cenbase_stevonnie.png",
           "x": -1040,
           "y": -812
         },
         {
-          "name": "Center: Gayspers and Trainer",
-          "file": "PixelTraa/cen_gayspersAndTrainer.png",
+          "name": "Center Base: Gayspers and Trainer",
+          "file": "PixelTraa/cenbase_gayspers.png",
           "x": -1024,
           "y": -531
         },
         {
-          "name": "Center: Background",
-          "file": "PixelTraa/cen_bg.png",
-          "x": -1260,
-          "y": -812
-        },
-        {
-          "name": "Center: Milkshakes",
-          "file": "PixelTraa/cen_milkshakes.png",
+          "name": "Center Base: Milkshakes",
+          "file": "PixelTraa/cenbase_milkshakes.png",
           "x": -1250,
           "y": -653
         },
         {
-          "name": "Center: Pineapple",
-          "file": "PixelTraa/cen_pineapple.png",
-          "x": -1341,
-          "y": -897
-        },
-        {
-          "name": "Center: H Cat",
-          "file": "PixelTraa/cen_h.png",
-          "x": -928,
-          "y": -422
-        },
-        {
-          "name": "Center: Tiresias",
-          "file": "PixelTraa/cen_tiresias.png",
+          "name": "Center Base: Tiresias",
+          "file": "PixelTraa/cenbase_tiresias.png",
           "x": -1260,
           "y": -812
         },
         {
-          "name": "Center: Link",
-          "file": "PixelTraa/cen_link.png",
+          "name": "Center Base: Pineapple",
+          "file": "PixelTraa/cenbase_pineapple.png",
+          "x": -1341,
+          "y": -897
+        },
+        {
+          "name": "Center Base: H Cat",
+          "file": "PixelTraa/cenbase_h.png",
+          "x": -928,
+          "y": -422
+        },
+        {
+          "name": "Center Base: Discord Link",
+          "file": "PixelTraa/cenbase_link.png",
           "x": -1098,
           "y": -810
+        },
+		{
+          "name": "Center Base: Background",
+          "file": "PixelTraa/cenbase_bg.png",
+          "x": -1260,
+          "y": -812
+        },
+		{
+          "name": "Pride Flags",
+          "file": "PixelTraa/prideFlags.png",
+          "x": 1343,
+          "y": -90
         },
         {
           "name": "Abyss: Vapu Grano",
@@ -456,7 +456,7 @@
           "y": 2746
         },
         {
-          "name": "Kukistan south",
+          "name": "Kukistan South",
           "file": "Kukistan/kuk-south.png",
           "x": -3023,
           "y": 3171
@@ -468,13 +468,13 @@
           "y": 2756
         },
         {
-          "name": "Friendship",
+          "name": "MLP: Friendship",
           "file": "Kukistan/friendship.png",
           "x": 569,
           "y": 358
         },
         {
-          "name": "My Little Cultist",
+          "name": "MLP: My Little Cultist",
           "file": "Kukistan/my-little-cultist.png",
           "x": -298,
           "y": 571
@@ -534,7 +534,7 @@
           "y": 92
 		    },
 		 {
-		 "name": "Center: Norther East",
+		 "name": "Center: North East",
           "file": "PixelTraa/cen_ne.png",
           "x": 139,
           "y": -314
