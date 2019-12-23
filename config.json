@@ -524,8 +524,8 @@
 		 {
           "name": "Center: East",
           "file": "PixelTraa/cen_east.png",
-          "x": 29,
-          "y": -103
+          "x": 23,
+          "y": -118
 		  },
 		 {
 		 "name": "Center: South East",
