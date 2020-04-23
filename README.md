@@ -1,3 +1,7 @@
+
+
+[![Build Status](https://travis-ci.org/traa-pixelcanvas/Chocolate-Factory.svg?branch=master)](https://travis-ci.org/traa-pixelcanvas/Chocolate-Factory)
+
 # Chocolate-Factory
 Templates are stored in `config.json`, and the template `"file"` is checked under `templates/`.
 
